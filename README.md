@@ -10,12 +10,12 @@ Web Inspector fue desarrollado por Apple Inc.   Principalmente fue para el naveg
 ![](logo_actualidad_apple.jpg)
 ## ¿Cómo se hizo?
 
-Web Inspector se creo utilizando los siguientes lenguajes de programación: HTML,CSS y JavaScript web estándar, como HTML, CSS y JavaScript.
+Web Inspector se creo utilizando los siguientes lenguajes de programación: HTML,CSS y JavaScript.
 
 ![](logos.png)
 ## ¿Dónde se hizo?
 
-El desarrollo de Web Inspector se llevó a cabo en las instalaciones de Apple Inc., principalmente en Cupertino, California, donde se encuentra la sede de la empresa.
+El desarrollo de Web Inspector se llevó a cabo en las instalaciones de Apple Inc, principalmente en Cupertino, California, donde se encuentra la sede de la empresa.
 
 ![](California_in_United_States.svg.png)
 ## ¿Cuándo se hizo?
