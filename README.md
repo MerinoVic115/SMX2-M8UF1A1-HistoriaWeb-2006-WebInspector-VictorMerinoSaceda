@@ -7,6 +7,7 @@
 ## <p align="justify">¿Quién lo hizo?</p>
 
 <p align="justify">Web Inspector fue desarrollado por Apple Inc.   Principalmente fue para el navegador web Safari. Fue diseñado para ayudar a los desarrolladores.</p>
+
 ![](logo_actualidad_apple.jpg)
 
 ## <p align="justify">¿Cómo se hizo?</p>
