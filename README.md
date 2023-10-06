@@ -26,6 +26,8 @@
 
 <p align="justify">Web Inspector se introdujo por primera vez en Safari en 2007, cuando Apple lanzó Safari 3 como parte de Mac OS X 10.5 Leopard.</p>
 
+![](Imagenes/safari.gif)
+
 ---
 
 ### Información básica sobre Web Inspector
